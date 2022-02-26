@@ -8,7 +8,7 @@
 "readG": false,
 "readP": true,
 "multi": true,
-"mainmenu": false,
+"mainmenu": true,
 "banChats": false,
 "autorespon": false,
 "autobackup": true
